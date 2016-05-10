@@ -1,6 +1,6 @@
 <?php
 
-class aplido-details extends aplido-details_parent
+class aplido_details extends aplido_details_parent
 {
     /**
      * Checks if current article isn't a variant,

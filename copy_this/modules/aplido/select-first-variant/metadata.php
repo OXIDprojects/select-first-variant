@@ -17,6 +17,6 @@ $aModule = array(
     'url'           => 'http://www.aplido.de',
     'email'         => 'service@aplido.de',
     'extend'        => array(
-        'details'   => 'aplido/select-first-variant/aplido-details'
+        'details'   => 'aplido/select-first-variant/aplido_details'
     )
 );
